@@ -31,12 +31,13 @@ body {
 
 .result-score {
   margin-left: .1rem;
-  font-size: .5rem;
+  font-size: .7rem;
   color: #333;
 }
 
 .result-selection {
   opacity: .5;
+  font-size: 1.5rem;
 }
 
 .result-selection.winner {
