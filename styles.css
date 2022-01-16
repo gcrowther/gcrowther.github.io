@@ -38,6 +38,7 @@ h1 {
 .result-score {
   margin-left: .1rem;
   color: #333;
+  font-size: 1rem;
 }
 
 .result-selection {
